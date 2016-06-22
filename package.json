@@ -33,6 +33,7 @@
   "optionalDependencies": {
     "bluetooth-hci-socket": "~0.4.4",
     "bplist-parser": "0.0.6",
+    "uwp": "^1.0.1",
     "xpc-connection": "~0.1.4"
   },
   "devDependencies": {
