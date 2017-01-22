@@ -33,8 +33,14 @@
   "optionalDependencies": {
     "bluetooth-hci-socket": "~0.4.4",
     "bplist-parser": "0.0.6",
-    "uwp": "^1.0.1",
-    "xpc-connection": "~0.1.4"
+    "xpc-connection": "~0.1.4",
+    "@nodert-win10/windows.foundation": "^0.2.95",
+    "@nodert-win10/windows.devices.bluetooth": "^0.2.95",
+    "@nodert-win10/windows.devices.bluetooth.advertisement": "^0.2.95",
+    "@nodert-win10/windows.devices.bluetooth.genericattributeprofile": "^0.2.95",
+    "@nodert-win10/windows.devices.enumeration": "^0.2.95",
+    "@nodert-win10/windows.devices.radios": "^0.2.95",
+    "@nodert-win10/windows.storage.streams": "^0.2.95"
   },
   "devDependencies": {
     "jshint": "latest",
